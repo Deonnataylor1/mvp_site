@@ -1,6 +1,6 @@
 # Github
 
-Github is a place where you can keep copies of the code you write so it's easy for you to access and easy to share with others.
+Github is a place where you can keep copies of the code you write so it's easy for you to access and easy to share with others. A repository is like a folder where all the code for one project can live.
 
 To get started, go to [https://github.com/](https://github.com/)
 
