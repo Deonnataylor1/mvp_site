@@ -5,7 +5,6 @@ HTML is like the backbone of a website. It stands for HyperText Markup Language.
 For example, here's a simple HTML code snippet that creates a basic webpage structure:
 
 ```html
-<!DOCTYPE html>
 <html>
 <head>
   <title>My First Website</title>
@@ -13,7 +12,7 @@ For example, here's a simple HTML code snippet that creates a basic webpage stru
 <body>
   <h1>Welcome to My Website</h1>
   <p>This is a paragraph of text on my webpage.</p>
-  <img src="myimage.jpg" alt="A beautiful image">
+  <img src="https://cdn.pixabay.com/photo/2018/11/17/22/15/trees-3822149_640.jpg" alt="A beautiful image">
   <a href="https://www.example.com">Visit Example.com</a>
 </body>
 </html>
