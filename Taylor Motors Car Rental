@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taylor Motors Car Rental</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <!-- Navigation links here -->
+        </nav>
+        <h1>Car Rental</h1>
+    </header>
+    <main>
+        <!-- Main content here -->
+    </main>
+    <footer>
+        <!-- Footer content here -->
+    </footer>
+</body>
+</html>
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #e0e0e0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2b2b2b;
+    color: #fff;
+    padding: 20px;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+
+.car-catalog {
+    display: flex;
+    justify-content: space-between;
+}
+
+.car {
+    width: 200px;
+    padding: 10px;
+}
